@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(3, 48, 39)
+
+    
+}
+
+
+.body1{
+ background-color: rgb(5, 54, 38);
+}
+hr{
+    color: black;
+    size: adjust 200px;
+}
+pre{
+    color:white;
+}
+#snap1{
+    color: Violet;
+}
+#lin{
+    color:greenyellow;
+}
+#code{
+    size-adjust: 200%;
+    border:200;
+    position: relative;
+}
