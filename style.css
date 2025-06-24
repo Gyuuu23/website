@@ -1,12 +1,17 @@
 body {
-    background-color: rgb(3, 48, 39)
+   
 
+background-color:rgb(120, 120, 127);
     
 }
 
-
-.body1{
- background-color: rgb(5, 54, 38);
+pre{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+#body1{
+ background-color:wheat;
+ background-image:none;
 }
 hr{
     color: black;
@@ -25,4 +30,30 @@ pre{
     size-adjust: 200%;
     border:200;
     position: relative;
+}
+#S1 {
+    color: red;
+    background-color: rgb(209, 213, 213);
+    border: 0cqmin;
+}
+.photo{
+    border: 0cqb;
+    border: 5px;
+    border-color: blue;
+    height:100%;
+    width:auto;
+
+    
+}
+
+.image {
+  height: 500%;
+  width: auto;
+}
+
+.lyrics-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  padding: 20px;
 }
